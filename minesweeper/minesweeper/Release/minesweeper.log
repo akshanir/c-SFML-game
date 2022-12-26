@@ -1,0 +1,10 @@
+﻿  minesweeper.cpp
+C:\Users\Jody\Desktop\SFML\minesweeper\minesweeper\minesweeper.cpp(21,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jody\Desktop\SFML\minesweeper\minesweeper\minesweeper.cpp(28,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jody\Desktop\SFML\minesweeper\minesweeper\minesweeper.cpp(83,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\minesweeper\minesweeper\minesweeper.cpp(83,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Compiler version has changed, fall back to full compilation.
+  All 77 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  minesweeper.vcxproj -> C:\Users\Jody\Desktop\SFML\minesweeper\Release\minesweeper.exe

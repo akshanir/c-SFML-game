@@ -1,0 +1,3 @@
+﻿  snake.cpp
+C:\Users\Jody\Desktop\SFML\snake\snake\snake.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  snake.vcxproj -> C:\Users\Jody\Desktop\SFML\snake\Debug\snake.exe

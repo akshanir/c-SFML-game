@@ -1,0 +1,16 @@
+﻿  Tetris.cpp
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(162,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(187,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(214,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(226,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(260,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(260,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(266,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(266,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(274,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(274,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(281,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(281,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(288,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\Tetris\Tetris\Tetris.cpp(288,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris.vcxproj -> C:\Users\Jody\Desktop\SFML\Tetris\Debug\Tetris.exe

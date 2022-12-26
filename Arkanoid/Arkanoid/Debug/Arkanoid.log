@@ -1,0 +1,4 @@
+﻿  Arkanoid.cpp
+C:\Users\Jody\Desktop\SFML\Arkanoid\Arkanoid\Arkanoid.cpp(24,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\Arkanoid\Arkanoid\Arkanoid.cpp(24,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Arkanoid.vcxproj -> C:\Users\Jody\Desktop\SFML\Arkanoid\Debug\Arkanoid.exe

@@ -1,0 +1,11 @@
+﻿  Car Racing(Top Down).cpp
+C:\Users\Jody\Desktop\SFML\Car Racing(Top Down)\Car Racing(Top Down)\Car Racing(Top Down).cpp(22,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\Car Racing(Top Down)\Car Racing(Top Down)\Car Racing(Top Down).cpp(22,81): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jody\Desktop\SFML\Car Racing(Top Down)\Car Racing(Top Down)\Car Racing(Top Down).cpp(22,92): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jody\Desktop\SFML\Car Racing(Top Down)\Car Racing(Top Down)\Car Racing(Top Down).cpp(22,110): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jody\Desktop\SFML\Car Racing(Top Down)\Car Racing(Top Down)\Car Racing(Top Down).cpp(69,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jody\Desktop\SFML\Car Racing(Top Down)\Car Racing(Top Down)\Car Racing(Top Down).cpp(69,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jody\Desktop\SFML\Car Racing(Top Down)\Car Racing(Top Down)\Car Racing(Top Down).cpp(70,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\Car Racing(Top Down)\Car Racing(Top Down)\Car Racing(Top Down).cpp(70,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jody\Desktop\SFML\Car Racing(Top Down)\Car Racing(Top Down)\Car Racing(Top Down).cpp(73,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Car Racing(Top Down).vcxproj -> C:\Users\Jody\Desktop\SFML\Car Racing(Top Down)\Debug\Car Racing(Top Down).exe
